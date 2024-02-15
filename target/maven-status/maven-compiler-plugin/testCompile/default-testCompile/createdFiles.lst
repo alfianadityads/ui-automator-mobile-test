@@ -1,7 +1,0 @@
-com\example\steps\NavigationMenuSteps.class
-com\example\steps\ListPageSteps.class
-com\example\steps\LoginPageSteps.class
-com\example\SerenityRunner.class
-com\example\BaseTest.class
-com\example\hooks\AndroidDriverHook.class
-com\example\steps\MathsStepDefinitions.class

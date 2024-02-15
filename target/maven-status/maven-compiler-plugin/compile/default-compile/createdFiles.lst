@@ -1,9 +1,0 @@
-com\example\app\pages\CalculatorPage.class
-com\example\app\properties\PropertiesData.class
-com\example\app\pages\ListPage.class
-com\example\app\pages\NavigationMenu.class
-com\example\app\Calculator.class
-com\example\app\drivers\AndroidDriverInit.class
-com\example\app\base\BasePageObject.class
-com\example\app\pages\LoginPage.class
-com\example\app\properties\PropertiesReader.class
