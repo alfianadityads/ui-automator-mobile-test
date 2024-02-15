@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Login" skipped="1" tests="1" time="0.74" timestamp="2024-02-08 09:06:48"><testcase name="Verify user successfully login when input valid email and password"><skipped/></testcase></testsuite>

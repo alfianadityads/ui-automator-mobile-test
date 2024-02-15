@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: com.example.SerenityRunner
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 4, Skipped: 14, Time elapsed: 7.202 sec <<< FAILURE! - in com.example.SerenityRunner
+Verify user successfully login when input valid email and password  Time elapsed: 0.001 sec  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ALF', ip: '192.168.0.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: AndroidDriver
+Caused by: java.net.ConnectException: Connection refused: no further information
+
+Verify user successfully login when input valid email and password  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.quit()" because "com.example.app.drivers.AndroidDriverInit.driver" is null
+
+Verify user successfully login when input valid email and password  Time elapsed: 0 sec  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ALF', ip: '192.168.0.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: AndroidDriver
+Caused by: java.net.ConnectException: Connection refused: no further information
+
+Verify user successfully login when input valid email and password  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.quit()" because "com.example.app.drivers.AndroidDriverInit.driver" is null
+
